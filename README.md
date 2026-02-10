@@ -13,7 +13,7 @@ Passionate about building secure and resilient infrastructures.
 
 ### Kyndryl – Backup & Resilience Analyst (2021–Present)
 - Administration of enterprise backup environments (IBM Spectrum Protect, Veeam, Veritas Netbackup, Dell Networker).  
-- Reduced recurring backup failures by 30% through automation.  
+- Reduced recurring backup failures through automation.  
 - Led critical restore operations during global incidents, ensuring business continuity.  
 
 ### IBM – Security Focal Intern (2021)
