@@ -30,16 +30,16 @@ Passionate about building secure and resilient infrastructures.
 ---
 
 ## 🏅 Training & Certifications
-- **Google Cybersecurity Professional Certificate**  
-  - Includes hands-on labs in Linux, MySQL, and Python.  
+
 - **TryHackMe SOC Analyst Learning Path**  
   - Successfully completed Tier 1 SOC Analyst training with emphasis on practical, hands‑on investigations. Gained strong proficiency in core frameworks such as the **Cyber Kill Chain** and **MITRE ATT&CK**, applying them to real‑world scenarios. Experience includes conducting detailed Phishing Email Analysis, exploring Malware Analysis Fundamentals, and Detecting and Investigating Web Attacks within simulated log environments.
  - **Qualys Vulnerability Management Fundamentals**  
    - Gained practical knowledge in identifying, prioritizing, and remediating vulnerabilities across enterprise environments, with emphasis on risk-based management and compliance.
 - **AZ-900: Microsoft Azure Fundamentals**  
-- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
-- **CompTIA Security+** (in progress)
-- **SC-200: Microsoft Security Operations Analyst** (in progress)
+- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** 
+- **Google Cybersecurity Professional Certificate** (in progress)
+  - Includes hands-on labs in Linux, MySQL, and Python.  
+- **CompTIA Security+** (next step)
 
 ---
 
